@@ -1,3 +1,9 @@
+GRUPO 3:
+Nicholas Capone Villela
+Aldenir Rodrigues
+Bruno Salomão
+Roberto Antonio
+
 # API de usuarios em memoria com NestJS
 
 API REST simples para cadastrar, listar, consultar e excluir usuarios. Os dados ficam somente em memoria, portanto sao apagados sempre que a aplicacao e reiniciada.
